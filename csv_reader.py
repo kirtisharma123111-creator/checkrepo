@@ -11,7 +11,7 @@ Author: Created for test1ngwor1d/checkrepo
 import csv
 import os
 
-print("ffff")
+print("fffff")
 def read_csv_with_builtin(file_path):
     """
     Read a CSV file using Python's built-in csv module.
